@@ -1,4 +1,4 @@
-# Tasmanian Pacific Oyster mortality data and temperatures (Temperature-oyster_mortality)
+# Tasmanian Pacific Oyster mortality data and temperatures
 
 Data for generating high temperature risks on Pacific oyster disease and mortality at Pipe Clay Lagoon, Upper and Lower Pittwater in Tasmania.
 
